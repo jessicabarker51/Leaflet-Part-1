@@ -1,16 +1,7 @@
 # Leaflet-Challenge
 
 Instructions
-The instructions for this activity are broken into two parts:
-
-Part 1: Create the Earthquake Visualization
-
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
-
-Part 1: Create the Earthquake Visualization
-2-BasicMap
-
-
+Create the Earthquake Visualization
 
 Used USGS site for json file on earthquakes over 30 days. 
 
